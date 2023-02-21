@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+#encabezado{
+	width:100%;
+}
+#logo{
+	width: 20%;
+	height: 70px;
+	float: left;
+	text-align: center;
+	background-color: #ABABAB;
+	text-align: center;
+}
+#titulo{
+	width: 60%;
+    height: 70px;
+	float: left;
+	background-color:#D6D6D6;
+	text-align: center;
+	text-decoration: bold;
+}
+#logo2{
+	width: 20%;
+	height: 70px;
+	float:left;
+	text-align: center;
+	background-color: #ABABAB;
+}
+#encabezado{
+	height: 70px;
+	width: 100%;
+}
+#contenedor{
+	background-color:#ADADAD;
+}
+.contenido1{
+	text-align: center;
+}
+.contenido2{
+	text-align: center;
+}
+#menu{
+	text-align: center;
+	font-size: 25px;
+	color: black;
+	text-decoration: none;
+	background-color:#BEBEBE;
+}
+.carbono2{
+	width: 100px;
+	height: 70px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.textomenu{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-size: 40px;
+	text-decoration:none;
+}
+.textopie{
+
+}
+#piecopy{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	background-color:#7A7A7A;
+}
+.titles{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: 60px;
+    text-align: center;
+}
+.textonormal{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 19px;
+}
+.subtitulo{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 28px;
+}
+.carbono3{
+	width:409px;
+	heigth: 200px;
+}
+.carbono4{
+	width: 430px;
+	height: 180px;
+}
+.equipos{
+	width: 560px;
+	height: 320px;
+}
+.limonenos{
+	width: 400px;
+	height: 500px;
+}
